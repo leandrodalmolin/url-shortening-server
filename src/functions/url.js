@@ -8,7 +8,7 @@ const app = express();
 
 app.use(cors());
 app.use(express.json());
-app.use(`/.netlify/functions/api`, routes);
+app.use('/url', routes);
 
 // app.listen(process.env.PORT || 5000);
 
