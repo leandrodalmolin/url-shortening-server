@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leandropdmolin/url-shortening-server.git"
+    "url": "git+https://github.com/leandrodalmolin/url-shortening-server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leandropdmolin/url-shortening-server/issues"
+    "url": "https://github.com/leandrodalmolin/url-shortening-server/issues"
   },
-  "homepage": "https://github.com/leandropdmolin/url-shortening-server#readme",
+  "homepage": "https://github.com/leandrodalmolin/url-shortening-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
